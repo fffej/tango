@@ -2,6 +2,8 @@
 
 inkedIn has a logic game called Tango. I’ve become mildly obsessed with it. The rules of the game are simple.
 
+![image](https://github.com/user-attachments/assets/7095b77d-aa26-427a-a2e8-5c7c817baae1)
+
 - It’s played on a 6x6 grid.
 - The grid must be filled with symbols (either X or Y)
 - No more than 2 X or 2 Y may be next to each other, either vertically or horizontally
