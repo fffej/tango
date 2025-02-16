@@ -15,3 +15,5 @@ inkedIn has a logic game called Tango. I’ve become mildly obsessed with it. Th
 This is some code that simulates it and tries to find the hardest puzzle.
 
 Suggestions for improvement welcome.
+
+Here's [an article](https://medium.com/ingeniouslysimple/it-only-takes-one-to-tango-92665433017d) explaining how it works
